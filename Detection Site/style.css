@@ -1,0 +1,64 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #F9F9F9;
+}
+.FullForm{
+	margin-top: 100px;
+	display: block;
+	width: 70%;
+	height: 400px;
+	background-color: #0F3A4E;
+	margin-left: 10%
+}
+.BroswerOs{
+	display: flex;
+
+}
+#Browser{
+	width: 39%;
+	height: 50px;
+	background-color: #12A9C6;
+	text-align: left;
+	margin-left: 100px;
+}
+#OS{
+	margin-left: 30px;
+	width: 39%;
+	height: 50px;
+	text-align: left;
+	background-color: #12A9C6;
+}
+#ISPS{
+	width: 80%;
+	height: 50px;
+	margin-left: 100px;
+	background-color: #12A9C6;
+}
+#HOST{
+	width: 80%;
+	height: 50px;
+	margin-left: 100px;
+	background-color: #12A9C6;
+}
+#ip{
+	text-align: center;
+	color: white;
+}
+h1{
+	margin-top:0px;
+	font-family: sans-serif;
+}
+#btn{
+	text-align: center;
+	width: 200px;
+	height: 40px;
+	background-color: green;
+	border-radius: 5px;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
